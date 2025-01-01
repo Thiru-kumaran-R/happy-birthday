@@ -1,6 +1,6 @@
 {
-  "greeting": "생일 축하해요 (Happy Birthday)",
-  "name": "Sarika",
+  "greeting": "Happy Birthday",
+  "name": "Surendar",
   "greetingText": "Have a blasting year ahead!",
   "wishText": "May the js.prototypes always be with you! ;)",
   "imagePath": "img/cancan.png",
@@ -12,7 +12,7 @@
   "text4": "I realised, I wanted to do something",
   "text4Adjective": "special",
   "text5Entry": "Because,",
-  "text5Content": "You are a Special Friend",
+  "text5Content": "You are Special",
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
